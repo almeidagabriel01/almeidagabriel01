@@ -22,17 +22,11 @@
 
 <br clear="both">
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://streak-stats.demolab.com?user=almeidagabriel01&locale=pt-br&mode=weekly&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-    </td>
-    <td width="24" style="border: none;"></td>
-    <td align="center" style="border: none;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=almeidagabriel01&theme=react" height="150" alt="languages graph" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=almeidagabriel01&locale=pt-br&mode=weekly&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img width="20" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=almeidagabriel01&theme=react" height="150" alt="languages graph" />
+</div>
 
 ###
 
