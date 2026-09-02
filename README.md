@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=almeidagabriel01&locale=pt-br&mode=weekly&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=almeidagabriel01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=almeidagabriel01&theme=react" height="150" alt="languages graph" />
 </div>
 
 ###
