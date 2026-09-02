@@ -10,7 +10,7 @@
   <a href="https://almeidagabriel.com.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/gabrielalmeidadias/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielalmeidadias/?locale=en-US" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="mailto:gabriel.dias01@outlook.com.br" target="_blank">
